@@ -1,0 +1,65 @@
+img{
+    width: 100%;
+}
+body{
+    background-color: blanchedalmond;
+}
+.bbb{
+    border-bottom: 2px solid gray;
+}
+.lll{
+    padding: 15px;
+    border-left: 2px solid #78a848;
+}
+.font-1{
+    font-family: "Rubik Glitch", system-ui;
+margin: 40px 0;
+text-align:center;
+}
+.ykys{
+    font-family: "Oi", serif;
+    margin: 40px 0;
+    text-align:center;
+}
+.fjnt-3{
+    font-family: "Bad Script", cursive;
+    margin: 40px 0;
+    text-align:center;
+}
+.font-4{
+    font-family: "Victor Mono", monospace;
+    margin: 40px 0;
+    text-align:center;
+}
+.font-5{
+    font-family: "Rubik Burned", system-ui;
+    margin: 40px 0;
+    text-align:center;
+}
+.font-6{
+    font-family: "Rubik 80s Fade", system-ui;
+    margin: 40px 0;
+    text-align:center;
+}
+.font-7{
+    font-family: "Montserrat", sans-serif;
+    margin: 40px 0;
+    text-align:center;
+}
+.font-8{
+    font-family: "LXGW WenKai Mono TC", monospace;
+    margin: 40px 0;
+    text-align:center;
+}
+.font-9{
+    font-family: "Rubik Beastly", system-ui;
+    text-align:center;
+    margin: 40px 0;
+
+}
+footer{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #241c03;
+    color: aliceblue;
+}
